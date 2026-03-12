@@ -1,14 +1,13 @@
-
 # RPLY_TEST_SKY130NM
 
 # Who
 aaronnieh
 
 # Why
- <explain why you made this module>
+ To practice using skyworks and github.
 
 # How
- <explain short how you made this module>
+ Draw randomn circuit and export file to github
 
 
 # What
